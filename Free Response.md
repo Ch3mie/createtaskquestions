@@ -115,6 +115,10 @@ Consider the procedure identified in part (i) of the Procedure section of your P
 - Write two calls to your procedure that each cause a different code segment in the procedure to execute.
 - Describe the expected behavior of each call. If it is not possible for two calls to your procedure to cause different code segments to execute, explain why this is the case for your procedure.
 
+```
+
+```
+
 #### Part (c):
 
 Suppose another programmer provides you with a procedure called `checkValidity(value)` that:
