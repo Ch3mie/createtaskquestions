@@ -116,7 +116,7 @@ Consider the procedure identified in part (i) of the Procedure section of your P
 - Describe the expected behavior of each call. If it is not possible for two calls to your procedure to cause different code segments to execute, explain why this is the case for your procedure.
 
 ```
-
+In the function RemoveToDo, it deletes the to do card if the card text length is not above 0. So if you put in a todo request and the todo is not longer than one character then it will not print a todo card.
 ```
 
 #### Part (c):
@@ -130,6 +130,10 @@ Using the list identified in the List section of your Personalized Project Refer
 
 - Write your responses to this question only on the designated pages in the separate Written Response booklet.
 - If there are multiple parts to this question, write the part letter with your response.
+
+```
+The amount of cards made will start at 0 then for each card made the lentgth will be increased by one and when the length is greater to every addition of i then it will break the for loop.
+```
 
 ---
 
